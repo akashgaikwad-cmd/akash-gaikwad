@@ -1,2 +1,0 @@
-# akash
-Portfolio website
